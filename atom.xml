@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://programertobylai.github.io/"/>
-  <updated>2020-05-17T05:29:08.172Z</updated>
+  <updated>2020-05-22T13:39:14.686Z</updated>
   <id>https://programertobylai.github.io/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hexo admin测试</title>
+    <link href="https://programertobylai.github.io/2020/05/22/hexo-admin%E6%B5%8B%E8%AF%95/"/>
+    <id>https://programertobylai.github.io/2020/05/22/hexo-admin%E6%B5%8B%E8%AF%95/</id>
+    <published>2020-05-22T13:38:00.000Z</published>
+    <updated>2020-05-22T13:39:14.686Z</updated>
+    
+    <content type="html"><![CDATA[<p>测试</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;测试&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="测试" scheme="https://programerTobyLai.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+      <category term="emmm" scheme="https://programerTobyLai.github.io/tags/emmm/"/>
+    
+      <category term="水贴" scheme="https://programerTobyLai.github.io/tags/%E6%B0%B4%E8%B4%B4/"/>
+    
+  </entry>
   
   <entry>
     <title>测试文章</title>

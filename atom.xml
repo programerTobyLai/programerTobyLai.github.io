@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://programertobylai.github.io/"/>
-  <updated>2020-05-22T13:39:14.686Z</updated>
+  <updated>2020-05-22T13:44:41.401Z</updated>
   <id>https://programertobylai.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>aa</title>
+    <link href="https://programertobylai.github.io/2020/05/22/aa/"/>
+    <id>https://programertobylai.github.io/2020/05/22/aa/</id>
+    <published>2020-05-22T13:44:41.000Z</published>
+    <updated>2020-05-22T13:44:41.401Z</updated>
+    
+    <content type="html"><![CDATA[<p>aaaaaa</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;aaaaaa&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>hexo admin测试</title>

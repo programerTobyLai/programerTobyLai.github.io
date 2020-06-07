@@ -14,20 +14,22 @@
     
     
     
-    <title>Toby&#39;s Blog | Toby的博客</title>
+    <title>404 not found! | Toby&#39;s Blog | Toby的博客</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     
     <meta name="theme-color" content="#0997F7">
     
     
     <meta name="keywords" content="">
-    <meta property="og:type" content="website">
-<meta property="og:title" content="Toby&#39;s Blog">
-<meta property="og:url" content="https://toby.amazingcode.top/categories/index.html">
+    <meta name="description" content="哎呦…这个页面不存在哦！">
+<meta property="og:type" content="website">
+<meta property="og:title" content="404 not found!">
+<meta property="og:url" content="https://toby.amazingcode.top/404/index.md">
 <meta property="og:site_name" content="Toby&#39;s Blog">
+<meta property="og:description" content="哎呦…这个页面不存在哦！">
 <meta property="og:locale" content="zh_CN">
-<meta property="article:published_time" content="2020-05-17T05:50:27.230Z">
-<meta property="article:modified_time" content="2020-05-17T05:50:27.230Z">
+<meta property="article:published_time" content="2020-06-07T01:14:12.000Z">
+<meta property="article:modified_time" content="2020-06-07T01:15:54.270Z">
 <meta property="article:author" content="Toby">
 <meta name="twitter:card" content="summary">
     
@@ -45,7 +47,7 @@
 <body>
     <div id="loading" class="active"></div>
 
-    <aside id="menu"  >
+    <aside id="menu" class="hide" >
   <div class="inner flex-row-vertical">
     <a href="javascript:;" class="header-icon waves-effect waves-circle waves-light" id="menu-off">
         <i class="icon icon-lg icon-close"></i>
@@ -103,7 +105,7 @@
         <a href="javascript:;" class="header-icon waves-effect waves-circle waves-light on" id="menu-toggle">
           <i class="icon icon-lg icon-navicon"></i>
         </a>
-        <div class="flex-col header-title ellipsis">Categories</div>
+        <div class="flex-col header-title ellipsis">404 not found!</div>
         
         <div class="search-wrap" id="search-wrap">
             <a href="javascript:;" class="header-icon waves-effect waves-circle waves-light" id="back">
@@ -122,35 +124,81 @@
         
     </div>
 </header>
-<header class="content-header categories-header">
+<header class="content-header page-header">
 
     <div class="container fade-scale">
-        <h1 class="title">Categories</h1>
+        <h1 class="title">404 not found!</h1>
         <h5 class="subtitle">
             
         </h5>
     </div>
 
     
-<div class="tabs-bar container">
-    <nav class="tags-list">
-        <a href="/categories" style="-webkit-order:-1;order:-1" class="tags-list-item waves-effect waves-button waves-light
-             active">全部</a>
-        
-    </nav>
-    <!-- PC show more-->
-    <div class="tags-list-more">
-        <a href="javascript:;" onclick="BLOG.tabBar(this)" class="action tags-list-item waves-effect waves-circle waves-light"><i class="icon icon-ellipsis-h"></i></a>
-    </div>
-</div>
-
 
 
 </header>
 
-<div class="container body-wrap fade">
+
+<div class="container body-wrap">
+    <article class="page-article fade" itemprop="blogPage">
+        <div class="post-content page-content" id="page-content" itemprop="pageContent">
+            <p>哎呦…这个页面不存在哦！</p>
+
+        </div>
+
+        
+
+        
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+    <!-- Valine Comments -->
+    <div class="comments vcomment" id="comments"></div>
+    <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+    <script src="//unpkg.com/valine@latest/dist/Valine.min.js"></script>
+    <!-- Valine Comments script -->
+    <script>
+        var GUEST_INFO = ['nick','mail','link'];
+        var guest_info = 'nick,mail,link'.split(',').filter(function(item){
+          return GUEST_INFO.indexOf(item) > -1
+        });
+        new Valine({
+            el: '#comments',
+            notify: 'true' == 'true',
+            verify: 'false' == 'true',
+            appId: "az2gAycfgD840NG1rrGnUSUp-gzGzoHsz",
+            appKey: "O0yzSPsIljH56YDbzskFIuok",
+            avatar: "mm",
+            placeholder: "说点什么吧~",
+            guest_info: guest_info.length == 0 ? GUEST_INFO : guest_info,
+            pageSize: "10"
+        })
+    </script>
+    <!-- Valine Comments end -->
+
+
+
+
+
+
+
+
+
+
+    </article>
     
-    
+
 </div>
 
         <footer class="footer">
@@ -183,7 +231,7 @@
 <div class="global-share" id="globalShare">
     <ul class="reset share-icons">
       <li>
-        <a class="weibo share-sns" target="_blank" href="http://service.weibo.com/share/share.php?url=https://toby.amazingcode.top/categories/&title=Toby's Blog&pic=https://toby.amazingcode.top/img/favicon.png" data-title="微博">
+        <a class="weibo share-sns" target="_blank" href="http://service.weibo.com/share/share.php?url=https://toby.amazingcode.top/404/index.md&title=《404 not found!》 — Toby's Blog&pic=https://toby.amazingcode.top/img/favicon.png" data-title="微博">
           <i class="icon icon-weibo"></i>
         </a>
       </li>
@@ -193,22 +241,22 @@
         </a>
       </li>
       <li>
-        <a class="qq share-sns" target="_blank" href="http://connect.qq.com/widget/shareqq/index.html?url=https://toby.amazingcode.top/categories/&title=Toby's Blog&source=" data-title=" QQ">
+        <a class="qq share-sns" target="_blank" href="http://connect.qq.com/widget/shareqq/index.html?url=https://toby.amazingcode.top/404/index.md&title=《404 not found!》 — Toby's Blog&source=" data-title=" QQ">
           <i class="icon icon-qq"></i>
         </a>
       </li>
       <li>
-        <a class="facebook share-sns" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://toby.amazingcode.top/categories/" data-title=" Facebook">
+        <a class="facebook share-sns" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://toby.amazingcode.top/404/index.md" data-title=" Facebook">
           <i class="icon icon-facebook"></i>
         </a>
       </li>
       <li>
-        <a class="twitter share-sns" target="_blank" href="https://twitter.com/intent/tweet?text=Toby's Blog&url=https://toby.amazingcode.top/categories/&via=https://toby.amazingcode.top" data-title=" Twitter">
+        <a class="twitter share-sns" target="_blank" href="https://twitter.com/intent/tweet?text=《404 not found!》 — Toby's Blog&url=https://toby.amazingcode.top/404/index.md&via=https://toby.amazingcode.top" data-title=" Twitter">
           <i class="icon icon-twitter"></i>
         </a>
       </li>
       <li>
-        <a class="google share-sns" target="_blank" href="https://plus.google.com/share?url=https://toby.amazingcode.top/categories/" data-title=" Google+">
+        <a class="google share-sns" target="_blank" href="https://plus.google.com/share?url=https://toby.amazingcode.top/404/index.md" data-title=" Google+">
           <i class="icon icon-google-plus"></i>
         </a>
       </li>
@@ -219,7 +267,7 @@
 <div class="page-modal wx-share" id="wxShare">
     <a class="close" href="javascript:;"><i class="icon icon-close"></i></a>
     <p>扫一扫，分享到微信</p>
-    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAK4AAACuCAAAAACKZ2kyAAABzElEQVR42u3aQW7DMAwEwPz/0+mlhwKunSVpKQkwOhW1bI9zIKSlHo94PE/G36vHmcerx2c+VgxcXNwx93k5kjnVu64/8mw+Li7ufu51obkuOgm093xcXNxv4R7nJ4uV25ZBuLi4H8nNFz3zQomLi/te7iT4SF75hr0aLi7ugJunlOv+XpLv4uLitriTGLRXpHrv/b0XFxd3C7caauTbm+tlUL58wcXF3c+dPLQXgFbj1H9+V1xc3MXcnFhtuOaN2GrRxMXF3c8t3xZQeiuvF0/AxcVdxk2OWvYKVq9Z8mIThYuLu5Gbb0uS//Q+Plps4eLibuRWy9b89XkIEtVdXFzcZdwqqxpz5AXr9Mm4uLhbuJOlzCQciY5ZXP9kuLi4i7lJMFFtulSbrIW2DS4u7nZutWz1DlVE8WhSyHBxcbdw50cz82ZtHpHg4uJ+GrfXPukVvmgmLi7uYu6zOK5xvfJU2Czh4uJu4VajislnlOOPSciCi4s75t5wmDKec0OTFRcXdyM3LzTNOKMVsxYu4+LifgC3WtSq4SwuLu53casB6PxYxmiJg4uLO+BW25+9xmr+GTfs1XBxcQfcSeMzb6z2miijfBcXF7fD/QHjeDPSyKzCSgAAAABJRU5ErkJggg==" alt="微信分享二维码">
+    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAK4AAACuCAAAAACKZ2kyAAABx0lEQVR42u3aQXLDIBAEQP//08oDYsszIJDK1ZxSdoxalyl2l9crXseHlX/7ac/XioWLizvNPU7X//8536d9ydyAi4u7n3v++HPKWGAN/hYXF/eR3C9BU+6Ai4v7e9wWenOQ4eLiltyrCpWxdsmSWg0XF3eCm3cp1/29pL+Li4s7xD3KlRxHkmbrMbRwcXH3cPNAmTmsJK+UPBcXF3cnd+ZAk4xYxo5QxT64uLgLuHlL4vzzNpLyo9Kb3MXFxV3Gza9SnRNnrnMlL4OLi/scblsOJY9vGy5FkOHi4l7EzUOkPe6MxVld/ODi4i7gtsOSIm7KZmv08ri4uBu585e0xq5ZtENZXFzc/dy8FBmLtrYQ+hJkuLi4y7j11CUOoLFRax6CuLi4q7n50SQpcpJxSxt/b5ojuLi4t3LzR+bB17ZIcHFx7+K2ZU9ewOSXt+pTGC4u7gLuUa68XJmJrboyw8XFvZTbtiraqxV5tI3tgIuLu47bDlbzsUp7LSNqvOLi4m7k5kHTXrNoS6CoVsPFxX0wN4+nvEwa7Jrg4uLeyp3ZYf5CBi4u7k7uBePPiUsbSeTh4uLu5I4NPltWfgy6rL+Li4s7wv0D/b6aeXdtQb8AAAAASUVORK5CYII=" alt="微信分享二维码">
 </div>
 
 
